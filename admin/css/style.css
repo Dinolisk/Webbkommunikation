@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c4dae8;
+    color: #333;
+}
+.title {
+    text-align: center;
+    padding: 40px;
+    background-color: #c4dae8;
+    margin: 0;
+}
